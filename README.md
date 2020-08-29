@@ -20,3 +20,5 @@ Here are some ideas to get you started:
  - 💬 Ask me about IoT, Home automation
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ranrinc&show_icons=true)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=krdesigns.com&show_icons=true)
