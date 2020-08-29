@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - 🔭 I’m currently working on IoT, Home automation
+ - 🌱 I’m currently learning Azure, deep learning and Graphql 
+ - 💬 Ask me about IoT, Home automation
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ranrinc&show_icons=true)
