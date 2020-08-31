@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋 💻, my name is Richard
 I love Programming, Bots, and Home automation enthusiast.
 
