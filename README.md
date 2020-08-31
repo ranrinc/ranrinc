@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 🔭 I’m currently working on IoT, Home automation
- - 🌱 I’m currently learning Azure, deep learning and Graphql 
- - 💬 Ask me about IoT, Home automation
+ - 🔭 I’m currently working on IoT, Home automation, Bots
+ - 🌱 I’m currently learning AWS Cloud, GCP Cloud, and AlibabaCloud 
+ - 💬 Ask me about IoT, Home automation, Linux, Server Setup
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ranrinc&show_icons=true)
 
